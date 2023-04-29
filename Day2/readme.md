@@ -11,7 +11,7 @@ To run this program, you will need Python 3 installed on your computer.
 
 ## How to Use
 
-When the program is run, it will prompt the user to enter their name and age. The user should enter their name followed by their age, separated by a space.
+When the program is run, it will prompt the user to enter their name and age.
 
 Example:
 
